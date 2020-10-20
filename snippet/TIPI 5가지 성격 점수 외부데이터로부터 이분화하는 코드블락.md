@@ -30,7 +30,6 @@ def binarize_big_5_personality(row):
         row[col] = 1 if row[col]>=threshold else 0
     return row
 
-for col in big_five_personality:
-    data[col] = np.where(tp_data[col]>tp_data[col].mean(),1,0)
+data = data.apply(binarize_big_5_personality,axis=1)
 ```
 
