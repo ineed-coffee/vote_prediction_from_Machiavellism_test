@@ -7,11 +7,13 @@
 - __참여__ : [**ineed-coffee**](https://github.com/ineed-coffee) , [__SEJUNHONG__](https://github.com/SEJUNHONG) , [__NOHYC__](https://github.com/NOHYC) ,  [**ikeven94**](https://github.com/ikeven94) 
 - __기간__ : 2020.09.28 ~ 2020.11.16
 - __주제__ : 마키아벨리즘 설문 답변 내용과 설문자의 개인정보를 통한 국가 투표 여부 예측
+- __결과보고서(전체 내용)__ :   [Here](https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test/blob/master/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%202%EC%A1%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) <a><img src="https://media.giphy.com/media/mFknMI76h9WHmuukXw/giphy.gif" width="70px"></a> 
 
 ---
-
+# 결과보고서 요약
 ![슬라이드1](README.assets/슬라이드1.PNG)
 ![슬라이드2](README.assets/슬라이드2.PNG)
+
 ***
 # 분석 개요
 ![슬라이드3](README.assets/슬라이드3.PNG)
